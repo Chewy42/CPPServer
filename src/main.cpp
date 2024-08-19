@@ -1,3 +1,7 @@
+// Copyright (c) 2024 by Matthew Favela
+// Protected under the MIT License
+// Refer to LICENSE for more information
+
 #include <boost/beast/core.hpp>
 #include <boost/beast/http.hpp>
 #include <boost/beast/version.hpp>

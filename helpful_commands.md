@@ -1,3 +1,6 @@
+Copyright (c) 2024 by Matthew Favela
+Protected under the MIT License
+Refer to LICENSE for more information
 
 # Helpful Commands
 

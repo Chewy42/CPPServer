@@ -1,3 +1,11 @@
+'''
+Copyright (c) 2024 by Matthew Favela
+Protected under the MIT License
+Refer to LICENSE for more information
+'''
+
+
+
 from conan import ConanFile
 from conan.tools.cmake import CMakeToolchain, CMake, CMakeDeps
 from conan.tools.build import check_min_cppstd

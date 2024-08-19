@@ -1,3 +1,8 @@
+# Copyright (c) 2024 by Matthew Favela
+# Protected under the MIT License
+# Refer to LICENSE for more information
+
+
 cmake_minimum_required(VERSION 3.15)
 project(CPPServer VERSION 0.1 LANGUAGES CXX)
 
