@@ -17,3 +17,8 @@ Dont forget to add ALL src file names to add_executable in CMakeLists.txt
 ```bash
 cmake --build .
 ```
+
+## Run the executable
+```bash
+./run
+```
